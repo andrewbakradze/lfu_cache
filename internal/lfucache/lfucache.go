@@ -4,7 +4,7 @@ import (
 	"errors"
 	"iter"
 
-	"github.com/igoroutine-courses/gonature.lfucache/internal/linkedlist"
+	"github.com/andrewbakradze/lfu_cache/internal/linkedlist"
 )
 
 var (

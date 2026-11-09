@@ -1,5 +1,3 @@
-//go:build bonus_test
-
 package lfucache
 
 import (

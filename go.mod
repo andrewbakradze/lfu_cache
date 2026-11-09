@@ -1,4 +1,4 @@
-module github.com/igoroutine-courses/gonature.lfucache
+module github.com/andrewbakradze/lfu_cache
 
 go 1.27.1
 

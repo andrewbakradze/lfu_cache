@@ -1,5 +1,3 @@
-//go:build performance_test
-
 package lfucache
 
 import (
